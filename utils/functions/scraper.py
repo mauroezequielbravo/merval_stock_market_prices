@@ -31,16 +31,16 @@ def get_share_price(ticker):
         browser.close()
         activo = {
             'ticker': ticker,
-            'date': datetime.now(),
-            'price': precio.replace('.', '').replace(',', '.'),
-            'previous_price': precioAnterior.replace('.', '').replace(',', '.'),
-            'opening_price': precioApertura.replace('.', '').replace(',', '.'),
-            'max_price': precioMaximo.replace('.', '').replace(',', '.'),
-            'min_price': precioMinimo.replace('.', '').replace(',', '.'),
-            'nominal_volume': VolNominal,
-            'effective_volume': VolEfectivo,
-            'average_volume': VolPromedio,
-            'percentage_volume': VolumenPorc
+            'fecha': datetime.now(),
+            'precio': precio.replace('.', '').replace(',', '.'),
+            'precioAnterior': precioAnterior.replace('.', '').replace(',', '.'),
+            'precioApertura': precioApertura.replace('.', '').replace(',', '.'),
+            'precioMaximo': precioMaximo.replace('.', '').replace(',', '.'),
+            'precioMinimo': precioMinimo.replace('.', '').replace(',', '.'),
+            'VolNominal': VolNominal,
+            'VolEfectivo': VolEfectivo,
+            'VolPromedio': VolPromedio,
+            'VolumenPorc': VolumenPorc
         }
         return activo
 

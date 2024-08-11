@@ -2,12 +2,12 @@
     {
         "Ticker":"AE38",
         "Type":"Bonos",
-        "Consulted":false
+        "Consulted":true
     },
     {
         "Ticker":"AE38D",
         "Type":"Bonos",
-        "Consulted":false
+        "Consulted":true
     },
     {
         "Ticker":"AL29",
