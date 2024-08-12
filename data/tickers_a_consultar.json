@@ -12,177 +12,177 @@
     {
         "Ticker":"AL29",
         "Type":"Bonos",
-        "Consulted":false
+        "Consulted":true
     },
     {
         "Ticker":"AL29D",
         "Type":"Bonos",
-        "Consulted":false
+        "Consulted":true
     },
     {
         "Ticker":"AL30",
         "Type":"Bonos",
-        "Consulted":false
+        "Consulted":true
     },
     {
         "Ticker":"AL30C",
         "Type":"Bonos",
-        "Consulted":false
+        "Consulted":true
     },
     {
         "Ticker":"AL30D",
         "Type":"Bonos",
-        "Consulted":false
+        "Consulted":true
     },
     {
         "Ticker":"AL35",
         "Type":"Bonos",
-        "Consulted":false
+        "Consulted":true
     },
     {
         "Ticker":"AL35D",
         "Type":"Bonos",
-        "Consulted":false
+        "Consulted":true
     },
     {
         "Ticker":"AL41",
         "Type":"Bonos",
-        "Consulted":false
+        "Consulted":true
     },
     {
         "Ticker":"AL41D",
         "Type":"Bonos",
-        "Consulted":false
+        "Consulted":true
     },
     {
         "Ticker":"BA37D",
         "Type":"Bonos",
-        "Consulted":false
+        "Consulted":true
     },
     {
         "Ticker":"BB37D",
         "Type":"Bonos",
-        "Consulted":false
+        "Consulted":true
     },
     {
         "Ticker":"BC37D",
         "Type":"Bonos",
-        "Consulted":false
+        "Consulted":true
     },
     {
         "Ticker":"BDC24",
         "Type":"Bonos",
-        "Consulted":false
+        "Consulted":true
     },
     {
         "Ticker":"BDC28",
         "Type":"Bonos",
-        "Consulted":false
+        "Consulted":true
     },
     {
         "Ticker":"BPOA7",
         "Type":"Bonos",
-        "Consulted":false
+        "Consulted":true
     },
     {
         "Ticker":"CO26",
         "Type":"Bonos",
-        "Consulted":false
+        "Consulted":true
     },
     {
         "Ticker":"CO26D",
         "Type":"Bonos",
-        "Consulted":false
+        "Consulted":true
     },
     {
         "Ticker":"CUAP",
         "Type":"Bonos",
-        "Consulted":false
+        "Consulted":true
     },
     {
         "Ticker":"DICP",
         "Type":"Bonos",
-        "Consulted":false
+        "Consulted":true
     },
     {
         "Ticker":"AAL",
         "Type":"Cedear",
-        "Consulted":false
+        "Consulted":true
     },
     {
         "Ticker":"AAP",
         "Type":"Cedear",
-        "Consulted":false
+        "Consulted":true
     },
     {
         "Ticker":"AAPL",
         "Type":"Cedear",
-        "Consulted":false
+        "Consulted":true
     },
     {
         "Ticker":"ABBV",
         "Type":"Cedear",
-        "Consulted":false
+        "Consulted":true
     },
     {
         "Ticker":"ABEV",
         "Type":"Cedear",
-        "Consulted":false
+        "Consulted":true
     },
     {
         "Ticker":"ABNB",
         "Type":"Cedear",
-        "Consulted":false
+        "Consulted":true
     },
     {
         "Ticker":"ABT",
         "Type":"Cedear",
-        "Consulted":false
+        "Consulted":true
     },
     {
         "Ticker":"ADBE",
         "Type":"Cedear",
-        "Consulted":false
+        "Consulted":true
     },
     {
         "Ticker":"ADGO",
         "Type":"Cedear",
-        "Consulted":false
+        "Consulted":true
     },
     {
         "Ticker":"ADI",
         "Type":"Cedear",
-        "Consulted":false
+        "Consulted":true
     },
     {
         "Ticker":"ADP",
         "Type":"Cedear",
-        "Consulted":false
+        "Consulted":true
     },
     {
         "Ticker":"AEM",
         "Type":"Cedear",
-        "Consulted":false
+        "Consulted":true
     },
     {
         "Ticker":"AIG",
         "Type":"Cedear",
-        "Consulted":false
+        "Consulted":true
     },
     {
         "Ticker":"AMAT",
         "Type":"Cedear",
-        "Consulted":false
+        "Consulted":true
     },
     {
         "Ticker":"AMD",
         "Type":"Cedear",
-        "Consulted":false
+        "Consulted":true
     },
     {
         "Ticker":"AMGN",
         "Type":"Cedear",
-        "Consulted":false
+        "Consulted":true
     },
     {
         "Ticker":"AMX",
